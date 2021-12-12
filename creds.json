@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "twittertrends-334118",
+  "private_key_id": "2279ae0fc437f4d94dcb54686fe32f289224e89d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD0Jqf75j8kabuS\nHdqzcTateItoYjdmTRxXHoTLYeuNSiyg5trCPicBHTooDw2B8N7zk8QcvCOSgWvl\nO8zVh1Z7ca1HWcENpkMR4s26fZnF6Jt6y+vmsNfXk1OHeuCgHBemAXRaVGNenmKH\nBijdznRiLH8lr5DjrOV8MhshcTVN1IrgvVRayGYrn/SjcRBTZpnsMU9zLUjIHHLj\nslUBsTvQWn69UJynu9cLo5zNoBKgU5CSt0FIj6U3uoHas8UmVdzi6/Pos1iwx67y\nfq2q9aWTV6VmtPv1BsrgrfCYo1tc45wahcZQncDhqzF8XVSiicCVGFL7YQJ9mva7\ntVAnPbndAgMBAAECggEAAmr6+ue29F5FguiCmUpGpX+S9rYaDUK0LPb/nuJQGP9D\nHaQWTimrKwlLAINoEuZFaSdlp80ihBS76rB3KbGVulaCaNw9yCvqA9LJEJxoH9Bb\nD6Vp1e733fKdkJvK+ugIb80ZlVdOTZfS3XxObw8O2F6okA7rp95KiD51k4lUgf3y\nB82O+TnDfKWKzZbOqSirEsWsrazxYW8gkPEAN3bnO1dgWRUY6E5jb7j76bl1Q3oD\nzGe2tfUo5G/eTqpd8yKY6vpPf38oE5akXFfxmFnbRIoSM+GbrYNSc06jhT1mYst7\n+8ZMmvRIDDxlCD1hKeNBsbKAFo/st+xqFSb8ak9B2QKBgQD9r/imgWbgCU3DIgA0\nIYoB5YSTx78ebh+OHCW+KAh7jbY6uCrbpUfzPe3Wza5luOWNi4YZIDN4rB9D9Hzi\nGC2sieua4OnWp2k1JuhK+ywD2XcRR88CJTGS/5RSpjXjVsTAJV/yHnWPhEk+3k2l\neTGDdNGeH0fVgkkrce7wJ8iv4wKBgQD2YG4NKQ2G881av/ynhW+K7n+gLBHbh/LI\nHTRmkdAWUWPqh5PXTy3Ub8OvwGOr9i1MurJgzIsx3i94hOrjj/wuuO0bkxxpdIPo\nR0vBBQKzQn4t5bJAcIj/0AhRYQIdd1aucpwhArzxEjGdBqCRyMUBM8D+f60S13H9\n7D4w0vSbPwKBgQD6cY3c+yTPif/N4zQmQvIWuzpuFiT0aq0WQ21zU9xD9Xvwbj5J\nRttIJFw30igYXjeozBQfm+2UdQAMu0HKhyoYCrSg2uefNPilM3riAyLJzhdA5Q5V\nRNizEUOhcFsEy3VDZ+JXiYBvpZ4VxasL8CBUcbA7FRB6lLude0XyqqPyFwKBgF3M\nsrlx8sN5WKp/Q3qn86KKUK6zeI0DAiyr6cJPK1ED5a1ptqCXdZRWhMMJ1SioDfET\nd0whM7FlrN8Og7rlm5ZSM3t3E68WfA3X7wBqnu+Olil1NNsRvSbflfsdmseLIsZB\nvi1XNIX3bkohNsqqDE773DNIeqUcvzp0Ue0Ws6fTAoGBAJ8TK6KtowmhEZeHqzQM\n2OP1xo3LsZzyrl/7SCl6sDH9XWa8K2bqBi2+IuDWgzkikq1wdJt164orF5CU5Nm6\nbS9fCn2MMhZRmNjYk2bdGr4els0u1V+1WtlzXPO9dt2z7rn/fLlqpdY85kBH8kn0\novAVjGXl3mixN2NNCawvpucX\n-----END PRIVATE KEY-----\n",
+  "client_email": "twittertrends-account@twittertrends-334118.iam.gserviceaccount.com",
+  "client_id": "116565744258603843515",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/twittertrends-account%40twittertrends-334118.iam.gserviceaccount.com"
+}
